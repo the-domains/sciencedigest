@@ -1,0 +1,14 @@
+layout_spectrum: 0.8478013
+typography_spectrum: 0.6244876
+color:
+  saturation: 0.9469092
+  lightness: 0.3148513
+  brandStrength: 0.5479842
+  rhythmicContrast: 0.2818163
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Sciencedigest
